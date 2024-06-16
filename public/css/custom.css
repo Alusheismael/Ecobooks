@@ -1,0 +1,11 @@
+.main-sidebar {
+    background-color: #28a745 !important; /* Cambia este valor por el tono de verde que prefieras */
+}
+
+.main-sidebar .nav-link, .main-sidebar .brand-link {
+    color: #ffffff !important; /* Asegúrate de que el texto sea legible */
+}
+
+.main-sidebar .nav-link:hover {
+    background-color: #218838 !important; /* Cambia este valor por un tono más oscuro de verde para el hover */
+}
